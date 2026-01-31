@@ -9,7 +9,7 @@ são criadas quando se chama essa função soma para algum bloco de código */
 int soma(int a,int b){
         return a+b;
     }
-
+/* Variáveis globais são utilizadas por todo o programa, e são declaradas no início do programa. */
 int main(){
     int contador = 1;
     printf("A soma é: %d \n",soma(8,7));
