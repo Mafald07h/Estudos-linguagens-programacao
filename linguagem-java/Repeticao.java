@@ -16,5 +16,11 @@ public class Repeticao {
             numerosInteervalo.add(i);
         }
         System.out.println("Os números presentes no intervalo é: " + numerosInteervalo);
+
+        System.out.println("Informe um valor em inteiro: ");
+        int valorInteiro = entrada.nextInt();
+        while (valorInteiro <= 20){
+            System.out.println(valorInteiro++);
+        }
     }
 }
