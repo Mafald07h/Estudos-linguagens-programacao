@@ -3,6 +3,6 @@
 int main(){
     int x;
     int *ponteiroX = &x;
-    printf("%d",ponteiroX); 
+    printf("%p \n",ponteiroX); 
     return 0;
 }
