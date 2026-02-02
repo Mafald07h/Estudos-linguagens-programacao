@@ -12,5 +12,8 @@ public class Arrays {
         }
 
         // Todo o Array contem elementos 0
+
+        int[] d = {10,20,30,40,50};
+        // Inicializar um Array com inteiros definidos pelo programador/usuários
     }
 }
