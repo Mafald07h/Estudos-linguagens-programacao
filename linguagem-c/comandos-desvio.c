@@ -5,6 +5,7 @@ int main(){
     x = 1;
     loop1:
         x++;
-        if(x<100) goto loop1;
+        if(x<100) goto loop1 ;
+    printf("%d\n",x);
     return 0;
 }
