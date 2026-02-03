@@ -1,12 +1,15 @@
 public class Metodos {
     public static void main(String[] args) {
-        Metodos metodo = new Metodos();
-        System.out.println(metodo.somarNumeros(10, 02));
+        System.out.println(somarNumeros(10, 5));
     }
 
 
-    public int somarNumeros(int a, int b){
+    static public int somarNumeros(int a, int b){
         return a+b;
+    }
+
+    static public void multiplicarNumeros(int a, int b){
+        System.out.println(a*b);
     }
 
 }
