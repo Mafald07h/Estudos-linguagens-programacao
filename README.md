@@ -17,4 +17,6 @@ Repositório para treinar linguagens de programação de diversos tipos
 
 ```
 
+<hr>
+
 <em>Heitor Silva Mafaldo - 2026 | Todos os direitos reservados</em>
