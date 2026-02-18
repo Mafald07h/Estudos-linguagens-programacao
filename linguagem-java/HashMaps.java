@@ -10,5 +10,7 @@ public class HashMaps {
         primeiroDicionario.put("Enzo",24);
 
         System.out.println(primeiroDicionario);
+        System.out.println(primeiroDicionario.get("Heitor"));
+        System.out.println(primeiroDicionario.get("Enzo"));
     }
 }
