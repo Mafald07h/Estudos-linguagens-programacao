@@ -1,5 +1,5 @@
 import java.security.SecureRandom;
-
+/* Colocar o comentário para esse método */
 public class LancarDados {
     public static void main(String[] args) {
         SecureRandom randomNumber = new SecureRandom();
