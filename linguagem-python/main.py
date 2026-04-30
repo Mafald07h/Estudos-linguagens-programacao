@@ -6,3 +6,5 @@ match dia:
         print("Domingo")
     case 2:
         print("Segunda")
+
+# Linux chato !!!!!!!!!
