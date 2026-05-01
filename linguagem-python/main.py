@@ -7,4 +7,5 @@ match dia:
     case 2:
         print("Segunda")
 
-# Linux chato !!!!!!!!!
+# Linux chato !!!!!!!!! 
+# Usdando o neovim para editar o arquivo
